@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B1A1F748-2F20-C7DC-6A6F-5DBA3B56EBE7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameEnding.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameEnding.cs" Line="71" Column="2" />
+      <File FileName="Assets/Scripts/WayPointPatrol.cs" Line="27" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3D Beginner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameEnding.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a93bbcfd-ecc2-43a0-b242-8543e45dc40e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
